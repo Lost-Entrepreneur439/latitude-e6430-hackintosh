@@ -1,5 +1,6 @@
 macOS Catalina EFI for the Dell Latitude E6430 using OpenCore. I will try to keep this EFI up to date with the latest OpenCore and kexts
 
+<img width="1366" height="768" alt="Screen Shot 2025-11-08 at 5 03 13 PM" src="https://github.com/user-attachments/assets/012cf68e-6b21-485e-aaeb-a14594d29c9d" />
 
 # WARNING! SMBIOS DETAILS ARE NOT INCLUDED IN THE CONFIG.PLIST.
 You will have to use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate a **MacBookPro9,2** SMBIOS for your system, and add them to the config.plist.
