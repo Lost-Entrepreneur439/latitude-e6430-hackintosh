@@ -24,6 +24,7 @@ Do note if your hardware differs, while unlikely, you may have issues.
 - Wi-Fi does not work. The BCM4313 chipset used in the E6430's DW1504 is not supported. I'd recommend replacing it with a supported Broadcom card.
 - Brightness keys do not work. BrightnessKeys does not support the E6430's configuration.
 - Gestures don't work very well.
+- VGA doesn't work, macOS hasn't supported VGA since Lion.
 
 If you notice any other problems, please open an issue (or pull request if you have a fix)
 
